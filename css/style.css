@@ -1,0 +1,970 @@
+.container {
+    padding-right: 1px;
+    padding-left: 1px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#topBox {
+    display: inline-block;
+    background: #5986b2;
+    height: 100px;
+    width: 100%;
+    margin: 0;
+}
+
+.home {
+    display: inline-block;
+    margin-top: 20px;
+    font-family: brevia;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 35px;
+    letter-spacing: 0em;
+    line-height: 1em;
+    text-transform: none;
+    color: #fff;
+    width: 400px;
+    padding: 10px;
+    margin-top: 25px;
+    margin-left: 80px;
+}
+
+.Hr1 {
+    display: inline-block;
+    font-family: brevia;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 25px;
+    color: white;
+    float: right;
+    padding: 40px;
+}
+
+
+
+.firstText {
+    text-align: center;
+    font-weight: 400;
+    font-family: Ubuntu;
+    font-size: 71px;
+    margin-top: 60px;
+    display: inline-block;
+    color: white;
+    line-height: 2em;
+}
+
+.seattle {
+    width: 100%;
+    display: inline-block;
+    position: relative;
+    bottom: 6px;
+    opacity: .8;
+}
+
+.head {
+    border-radius: 50%;
+    width: 350px;
+    height: 250px;
+    position: absolute;
+    right: 1220px;
+    bottom: 370px;
+
+
+}
+
+#about {
+    display: block;
+    float: right;
+    margin-right: 100px;
+    margin-top: 100px;
+}
+
+.firstHead {
+    font-family: Ubuntu;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2.5rem;
+    letter-spacing: .2em;
+    line-height: 1em;
+    text-transform: none;
+    display: block;
+    margin-left: 165px;
+
+}
+
+.firstBody {
+    font-style: italic;
+    text-align: center;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    box-sizing: border-box;
+    font-family: brevia;
+    font-weight: 450;
+    font-size: 1.2em;
+    letter-spacing: .1em;
+    line-height: 1.65em;
+    text-transform: none;
+    display: inline-block;
+}
+
+#computerImg {
+    display: block;
+    align-content: center;
+}
+
+.computer1 {
+    width: 350px;
+    height: 250px;
+    border-radius: 30%;
+    display: inline-block;
+    float: right;
+    margin-top: 100px;
+    margin-right: 100px;
+}
+
+.computer2 {
+    width: 350px;
+    height: 250px;
+    border-radius: 30%;
+    display: inline-block;
+    margin-top: 180px;
+    margin-left: 100px;
+}
+
+.travel1 {
+    width: 300px;
+    height: 200px;
+    border-radius: 30%;
+    display: inline-block;
+}
+
+.books {
+    width: 100%;
+    display: inline-block;
+    position: absolute;
+    top: 1790px;
+    opacity: .8;
+}
+
+.second {
+    height: 940px;
+    width: 100%;
+    display: inline-block;
+}
+
+.third {
+    height: 780px;
+    width: 100%;
+}
+
+.fourth {
+    height: 780px;
+    width: 100%;
+    text-align: center;
+}
+
+#insperation {
+    display: block;
+    margin-left: 100px;
+    margin-top: 80px;
+    overflow: auto;
+}
+
+.secondHead {
+    margin-top: 15px;
+    font-family: Ubuntu;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2.5rem;
+    letter-spacing: .2em;
+    line-height: 1em;
+    text-transform: none;
+    display: block;
+    margin-left: 140px;
+}
+
+.secondBody {
+    font-style: italic;
+    text-align: center;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    box-sizing: border-box;
+    font-family: brevia;
+    font-weight: 450;
+    font-size: 1.2em;
+    letter-spacing: .1em;
+    line-height: 1.65em;
+    text-transform: none;
+    display: inline-block;
+}
+
+.meanPic {
+    position: absolute;
+    width: 650px;
+    height: 400px;
+    left: 850px;
+    top: 2750px;
+}
+
+#firstPic {
+    display: inline-block;
+    position: sticky;
+    top: 0px;
+    width: 100%;
+}
+
+.parallax {
+    background-image: url("imagesP/citysky.jpg");
+    height: 800px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+}
+
+.parallax2 {
+    background-image: url("imagesP/travel.jpeg");
+    height: 600px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax3 {
+    background-image: url("imagesP/travelW.jpg");
+    height: 600px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+.thirdHead {
+    text-align: center;
+    margin-top: 15px;
+    font-family: Ubuntu;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 4.0rem;
+    letter-spacing: .2em;
+    line-height: 1em;
+    text-transform: none;
+}
+
+.thirdBodyC {
+    text-align: center;
+    margin-top: 15px;
+    font-family: Ubuntu;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2.5rem;
+    letter-spacing: .2em;
+    line-height: 1em;
+    text-transform: none;
+}
+
+.thirdBodyD {
+    display: inline-block;
+    font-style: italic;
+    text-align: center;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    box-sizing: border-box;
+    font-family: brevia;
+    font-weight: 450;
+    font-size: 1.2em;
+    letter-spacing: .1em;
+    line-height: 1.65em;
+    text-transform: none;
+}
+
+#fourthB {
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+}
+
+#fourthC {
+    /* display: block;
+    text-align: center; */
+}
+
+#check {
+    text-align: center;
+    display: block;
+
+}
+
+.handshake {
+    width: 450px;
+    height: 320px;
+}
+
+.icon2 {
+    width: 280px;
+    height: 320px;
+}
+
+.codingDojo2 {
+    width: 300px;
+    height: 200px;
+    border-radius: 30%;
+}
+
+.video {
+    left: 1000px;
+    top: 4236px;
+    border-radius: 30%;
+}
+
+.parallax4 {
+    background-image: url("imagesP/seattle.jpg");
+    height: 600px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#list {
+    float: right;
+    margin-right: 300px;
+    display: inline-block;
+    width: 14%;
+
+}
+
+fifthAll {
+    display: inline-block;
+}
+
+.fifth {
+    display: inline-block;
+    height: 780px;
+    width: 100%;
+}
+
+ul {
+    display: inline-block;
+}
+
+ul.li {
+    display: inline-block;
+}
+
+.fourthHead {
+    text-align: center;
+    margin-top: 15px;
+    font-family: Ubuntu;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 4.0rem;
+    letter-spacing: .2em;
+    line-height: 1em;
+    text-transform: none;
+}
+
+.fourthBodyL {
+    margin-top: 15px;
+    font-family: Ubuntu;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.6rem;
+    letter-spacing: .2em;
+    line-height: 0em;
+    text-transform: none;
+}
+
+.fourthBodyLL {
+    display: inline-block;
+    font-style: italic;
+    text-align: right;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    box-sizing: border-box;
+    font-family: brevia;
+    font-weight: 450;
+    font-size: 1.1em;
+    letter-spacing: .1em;
+    line-height: 1.65em;
+    text-transform: none;
+    position: absolute;
+    top: 5420px;
+    left: 806px;
+}
+
+.fourthBodyF {
+    margin-top: 15px;
+    font-family: Ubuntu;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.6rem;
+    letter-spacing: .2em;
+    line-height: 0em;
+    text-transform: none;
+}
+
+.fourthBodyFF {
+    display: inline-block;
+    font-style: italic;
+    text-align: right;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    box-sizing: border-box;
+    font-family: brevia;
+    font-weight: 450;
+    font-size: 1.1em;
+    letter-spacing: .1em;
+    line-height: 1.65em;
+    text-transform: none;
+    position: absolute;
+    top: 5490px;
+    left: 817px;
+}
+
+.fourthBodyS {
+    margin-top: 15px;
+    font-family: Ubuntu;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.6rem;
+    letter-spacing: .2em;
+    line-height: 0em;
+    text-transform: none;
+}
+
+.fourthBodySS {
+    display: inline-block;
+    font-style: italic;
+    text-align: right;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    box-sizing: border-box;
+    font-family: brevia;
+    font-weight: 450;
+    font-size: 1.1em;
+    letter-spacing: .1em;
+    line-height: 1.65em;
+    text-transform: none;
+    position: absolute;
+    top: 5560px;
+    left: 810px;
+}
+
+.fourthBodyD {
+    margin-top: 15px;
+    font-family: Ubuntu;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.6rem;
+    letter-spacing: .2em;
+    line-height: 0em;
+    text-transform: none;
+}
+
+.fourthBodyDD {
+    display: inline-block;
+    font-style: italic;
+    text-align: right;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    box-sizing: border-box;
+    font-family: brevia;
+    font-weight: 450;
+    font-size: 1.1em;
+    letter-spacing: .1em;
+    line-height: 1.65em;
+    text-transform: none;
+    position: absolute;
+    top: 5630px;
+    left: 800px;
+}
+
+.fourthBodyFE {
+    margin-top: 15px;
+    font-family: Ubuntu;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.6rem;
+    letter-spacing: .2em;
+    line-height: 0em;
+    text-transform: none;
+}
+
+.fourthBodyFEE {
+    display: inline-block;
+    font-style: italic;
+    text-align: right;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    box-sizing: border-box;
+    font-family: brevia;
+    font-weight: 450;
+    font-size: 1.2em;
+    letter-spacing: .1em;
+    line-height: 1.65em;
+    text-transform: none;
+    position: absolute;
+    top: 5700px;
+    left: 800px;
+}
+
+.fourthBodyM {
+    margin-top: 15px;
+    font-family: Ubuntu;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.6rem;
+    letter-spacing: .2em;
+    line-height: 0em;
+    text-transform: none;
+}
+
+ul {
+    display: block;
+    font-style: italic;
+    font-family: brevia;
+    font-weight: 450;
+    font-size: 1.0em;
+    letter-spacing: .1em;
+    line-height: 1.65em;
+    text-transform: none;
+}
+
+.fourthBodyMM {
+    display: inline-block;
+    font-style: italic;
+    text-align: right;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    box-sizing: border-box;
+    font-family: brevia;
+    font-weight: 450;
+    font-size: 1.1em;
+    letter-spacing: .1em;
+    line-height: 1.65em;
+    text-transform: none;
+    position: absolute;
+    top: 5771px;
+    left: 770px;
+}
+
+.icon3 {
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    left: 850px;
+    top: 5500px;
+}
+
+.slideShow {
+    height: 600px;
+    width: 100%;
+}
+
+.parallax5 {
+    background-image: url("imagesP/future.jpeg");
+    height: 800px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.closer {
+    height: 255px;
+    width: 100%;
+    display: inline-block;
+    background: #0f0704;
+    text-align: center;
+    left: 0px;
+
+
+}
+
+.finalH {
+    text-align: center;
+    font-family: brevia;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+    letter-spacing: 0em;
+    line-height: 1em;
+    text-transform: none;
+    color: #fff;
+    width: 300px;
+    padding: 10px;
+    display: inline-block;
+    margin-top: 30px;
+    position: relative;
+    top: 35px;
+    left: 130px;
+}
+
+.linkedin {
+    display: inline-block;
+    height: 75px;
+    width: 100px;
+}
+
+.Hr9 {
+    display: inline-block;
+    font-family: brevia;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    letter-spacing: .06em;
+    line-height: 1em;
+    text-transform: uppercase;
+    color: white;
+    position: relative;
+    top: 127px;
+    right: 210px;
+}
+
+.Hr2 {
+    display: inline-block;
+    font-family: brevia;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    letter-spacing: .06em;
+    line-height: 1em;
+    text-transform: uppercase;
+    color: white;
+    position: relative;
+    top: 127px;
+    right: 140px;
+}
+
+.Hr3 {
+    display: inline-block;
+    font-family: brevia;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    letter-spacing: .06em;
+    line-height: 1em;
+    text-transform: uppercase;
+    color: white;
+    position: relative;
+    top: 127px;
+    right: 70px;
+}
+
+.info1 {
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+
+.info2 {
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+
+.info3 {
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+
+.info4 {
+    height: 100px;
+    width: 130px;
+    display: inline-block;
+}
+
+.info5 {
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+
+.info6 {
+    height: 90px;
+    width: 120px;
+    display: inline-block;
+}
+
+.info7 {
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+
+.info8 {
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+
+.info9 {
+    height: 120px;
+    width: 120px;
+    display: inline-block;
+}
+
+.info10 {
+    height: 120px;
+    width: 120px;
+    display: inline-block;
+}
+
+.info11 {
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+
+.info12 {
+    height: 120px;
+    width: 120px;
+    display: inline-block;
+}
+
+.info13 {
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+    margin-left: 100px;
+}
+
+#infoImg {
+    margin-top: 50px;
+    margin-left: 300px;
+    float: left;
+    width: 40%;
+    display: inline-block;
+    width: 400px;
+    height: 70%;
+    /* margin-top: 100px;
+    margin-right: 200px;  */
+}
+
+.ideaIcon {
+    height: 290px;
+    width: 320px;
+
+}
+
+.ideasD {
+    display: inline-block;
+    margin-right: 500px;
+    font-style: italic;
+    text-align: center;
+    -webkit-margin-before: 1em;
+    margin-block-start: 1em;
+    -webkit-margin-after: 1em;
+    margin-block-end: 1em;
+    -webkit-margin-start: 0px;
+    margin-inline-start: 0px;
+    -webkit-margin-end: 0px;
+    margin-inline-end: 0px;
+    box-sizing: border-box;
+    font-family: brevia;
+    font-weight: 450;
+    font-size: 1.1em;
+    letter-spacing: .1em;
+    line-height: 1.65em;
+    text-transform: none;
+}
+
+.ideasLink {
+    font-style: italic;
+    text-align: center;
+    -webkit-margin-before: 1em;
+    margin-block-start: 1em;
+    -webkit-margin-after: 1em;
+    margin-block-end: 1em;
+    -webkit-margin-start: 0px;
+    margin-inline-start: 0px;
+    -webkit-margin-end: 0px;
+    margin-inline-end: 0px;
+    box-sizing: border-box;
+    font-family: brevia;
+    font-weight: 450;
+    font-size: 1.2em;
+    letter-spacing: .1em;
+    line-height: 1.65em;
+    text-transform: none;
+}
+
+#thirdLink3 {
+    display: inline-block;
+    margin-left: 250px;
+}
+
+#continued {
+    display: block;
+}
+
+.ideasGit {
+    margin-left: 290px;
+    font-style: italic;
+    -webkit-margin-before: 1em;
+    margin-block-start: 1em;
+    -webkit-margin-after: 1em;
+    margin-block-end: 1em;
+    -webkit-margin-start: 0px;
+    margin-inline-start: 0px;
+    -webkit-margin-end: 0px;
+    margin-inline-end: 0px;
+    box-sizing: border-box;
+    font-family: brevia;
+    font-weight: 450;
+    font-size: 1.2em;
+    letter-spacing: .1em;
+    line-height: 1.65em;
+    text-transform: none;
+    display: inline-block;
+}
+
+.catIcon {
+    height: 220px;
+    width: 280px;
+    float: right;
+    margin-right: 180px;
+    margin-top: 50px;
+}
+
+#description1 {
+    display: inline-block;
+    margin-left: 160px;
+}
+
+#description2 {
+    display: inline-block;
+    float: right;
+    margin-right: 145px;
+}
+
+.catD {
+    margin-right: 200px;
+    display: inline-block;
+    font-style: italic;
+    text-align: center;
+    -webkit-margin-before: 1em;
+    margin-block-start: 1em;
+    -webkit-margin-after: 1em;
+    margin-block-end: 1em;
+    -webkit-margin-start: 0px;
+    margin-inline-start: 0px;
+    -webkit-margin-end: 0px;
+    margin-inline-end: 0px;
+    box-sizing: border-box;
+    font-family: brevia;
+    font-weight: 450;
+    font-size: 1.1em;
+    letter-spacing: .1em;
+    line-height: 1.65em;
+    text-transform: none;
+}
+
+.catGit {
+    font-style: italic;
+    text-align: center;
+    -webkit-margin-before: 1em;
+    margin-block-start: 1em;
+    -webkit-margin-after: 1em;
+    margin-block-end: 1em;
+    -webkit-margin-start: 0px;
+    margin-inline-start: 0px;
+    -webkit-margin-end: 0px;
+    margin-inline-end: 0px;
+    box-sizing: border-box;
+    font-family: brevia;
+    font-weight: 450;
+    font-size: 1.2em;
+    letter-spacing: .1em;
+    line-height: 1.65em;
+    text-transform: none;
+}
+
+thirdD {
+    display: block;
+}
+
+#thirdPics {
+    margin-top: 40px;
+    display: block;
+    margin-left: 195px;
+}
+
+#thirdLink1 {
+    display: inline-block;
+    margin-left: 250px;
+
+}
+
+#thirdLink2 {
+    display: inline-block;
+    float: right;
+    margin-right: 220px;
+}
+
+#firstSection {
+    display: block;
+}
+
+.userGit {
+    font-style: italic;
+    text-align: center;
+    -webkit-margin-before: 1em;
+    margin-block-start: 1em;
+    -webkit-margin-after: 1em;
+    margin-block-end: 1em;
+    -webkit-margin-start: 0px;
+    margin-inline-start: 0px;
+    -webkit-margin-end: 0px;
+    margin-inline-end: 0px;
+    box-sizing: border-box;
+    font-family: brevia;
+    font-weight: 450;
+    font-size: 1.2em;
+    letter-spacing: .1em;
+    line-height: 1.65em;
+    text-transform: none;
+    position: absolute;
+    top: 3040px;
+    left: 1110px;
+}
+
+.portfolio {
+    margin-top: 50px;
+    font-family: Ubuntu;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 4.0rem;
+    letter-spacing: .2em;
+    line-height: 1em;
+    text-transform: none;
+    display: block;
+    text-align: center;
+}
+
